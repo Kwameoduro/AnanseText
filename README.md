@@ -9,6 +9,6 @@ This is the major class in the application:
 - [AnanseText Application](https://github.com/Kwameoduro/AnanseText/blob/main/src/main/com.dataflow.textprocessing/ui/AnanseTextApp.java)
 
 ### Requirement Specification
-The requirement specification document for the project can be found [here]().
+The requirement specification document for the project can be found [here](https://github.com/Kwameoduro/AnanseText/blob/main/Requirement%20Specification_AnanseText.pdf).
 
 May the force be with you!
